@@ -29,7 +29,9 @@ Provides centralized order and customer tracking
 
 Improves store operations efficiency through real-time updates
 
-Screenshots
+Screenshots:
+Integrate Shopify and Google Sheets: https://github.com/SakshiSingh-26/Shopify-automation-workflow/blob/main/Intergrate%20Shopify%20and%20Google%20Sheets.png
+Auto Update Fulfilment Status: 
 
 (Add screenshots of the Make.com automation workflow and Google Sheet here for visual reference)
 
