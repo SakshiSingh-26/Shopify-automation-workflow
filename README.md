@@ -39,3 +39,5 @@ Clone this repository or view the automation setup on Make.com
 Customize Google Sheet and Shopify API credentials as needed
 
 Deploy workflow to automate your Shopify order processing
+Google Sheet Log: https://docs.google.com/spreadsheets/d/1IH-lQXg-pN-PGKYTvl6V7iX_jC3v8fNLwnWwMqENiz8/edit?usp=sharing
+
