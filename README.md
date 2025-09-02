@@ -31,9 +31,7 @@ Improves store operations efficiency through real-time updates
 
 Screenshots:
 Integrate Shopify and Google Sheets: https://github.com/SakshiSingh-26/Shopify-automation-workflow/blob/main/Intergrate%20Shopify%20and%20Google%20Sheets.png
-Auto Update Fulfilment Status: 
-
-(Add screenshots of the Make.com automation workflow and Google Sheet here for visual reference)
+Auto Update Fulfilment Status: https://github.com/SakshiSingh-26/Shopify-automation-workflow/blob/main/Auto%20Update%20Fulfilment%20Status.png
 
 Usage
 Clone this repository or view the automation setup on Make.com
